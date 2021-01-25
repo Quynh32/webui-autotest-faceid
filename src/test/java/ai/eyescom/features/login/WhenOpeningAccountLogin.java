@@ -19,7 +19,7 @@ public class WhenOpeningAccountLogin {
 	
 	@Steps
 	HomeSteps home;
-	
+
 	@Steps
 	LoginStep loginSteps;
 	@Test
