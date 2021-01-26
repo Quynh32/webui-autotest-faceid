@@ -20,7 +20,7 @@ public class WhenOpeningTheWeb {
 	
 	@Test
 	public void launch_web_application() {
-	//	home.visit_application();
+		home.visit_application();
 	}
 
 }
